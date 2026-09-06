@@ -1,0 +1,6 @@
+names:
+- savon
+nc: 1
+path: C:\Users\soukaina\Desktop\Stage huile\anaconda_projects\db\dataset
+train: images
+val: images
