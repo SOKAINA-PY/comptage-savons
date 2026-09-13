@@ -35,5 +35,5 @@ The system was evaluated under various confidence thresholds:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/VOTRE_USERNAME/soap-detection-counting-yolov8.git](https://github.com/VOTRE_USERNAME/soap-detection-counting-yolov8.git)
-   cd soap-detection-counting-yolov8
+   git clone [https://github.com/SOKAINA-PY/comptage-savons.git](https://github.com/SOKAINA-PY/comptage-savons.git)
+   cd comptage-savons
