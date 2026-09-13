@@ -1,0 +1,5 @@
+Test,Nombre réel,Nombre détecté,Nombre compté
+Test 1 (70s),16,416,216
+Test 2,16,359,193
+Test 3,16,207,125
+Test 4,16,127,90

@@ -1,4 +1,7 @@
-Métrique,Valeur
-Total comptés,0
-Durée vidéo (sec),70.0
-Savons/sec,0.00
+﻿Métrique,Valeur
+Total comptés,16
+Savons avec anomalies,51
+Packaging déchiré,106
+Pas triangle,97
+Mal aligné,46
+Packaging absent,0
